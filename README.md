@@ -1,1 +1,1 @@
-# project2-C
+Steopei Cristian - info romana
