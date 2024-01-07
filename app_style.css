@@ -1,0 +1,470 @@
+#app-window{
+	background-color: #0038c7;
+}
+
+#app-grid{
+	background-color: #0038c7;
+	
+	border: 2px solid #03e6ff;
+}
+
+#account-grid{
+	min-height: 50px;
+
+	background-color: #0038c7;
+	
+	border-radius: 10px;
+	border: 3px solid #03e6ff;
+}
+
+#account-tree-view{
+	min-height: 30px;
+
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 15px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border: 1px solid #03e6ff;
+}
+
+#account-grid-button{
+	min-height: 30px;
+
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 15px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 10px;
+	border: 2px solid #03e6ff;
+	
+	margin-top: 5px;
+}
+
+#back-button{
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 20px;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 7px;
+	border: 1px solid #03e6ff;
+	
+	margin: 10px;
+}
+
+#acc-menu-button{
+	min-width: 200px;
+    min-height: 50px;
+    
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 15px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 10px;
+	border: 2px solid #03e6ff;
+	
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+
+#tr-card-box{
+	background: #0038c7;
+}
+
+#tr-card{	
+	background-color: #0038c7;
+	
+	border-radius: 7px;
+	border: 3px solid #03e6ff;
+	
+	margin-bottom: 5px;
+}
+
+#tr-card-label{
+	min-width : 40px;
+	
+	color: #03e6ff;
+	
+	font-size: 15px;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border: 1px solid #03e6ff;
+	
+	padding: 3px;
+}
+
+#last-tr-card-label{
+	min-width : 40px;
+	
+	color: #03e6ff;
+	
+	font-size: 15px;
+	font-family: "Trebuchet MS", sans-serif;
+		
+	border-left: 1px solid #03e6ff;	
+	border-top: none;
+	border-bottom: none;
+	border-right: none; 
+	
+	padding: 3px;
+}
+
+#deposit-message{
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	margin-left: 25px;	
+}
+
+#deposit-entry{
+	min-width : 50px;
+	
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 15px;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 15px;
+	border: 2px solid #03e6ff;
+	
+	margin-left: 25px;
+}
+
+#deposit-button{
+	min-width: 30px;
+	min-height: 50px;
+	
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 20px;
+	border: 2px solid #03e6ff;
+	
+	margin-left: 25px;
+}
+
+#transfer-entry{
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 13px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 10px;
+	border: 3px solid #03e6ff;
+}
+
+#transfer-button{
+	min-width: 100px;
+	min-height: 50px;
+	
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 20px;
+	border: 2px solid #03e6ff;	
+}
+
+#report-button{
+	min-width: 75px;
+	min-height: 50px;
+	
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 10px;
+	border: 2px solid #03e6ff;
+	
+	margin: 10px;	
+}
+
+#statement-message{
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 15px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+}
+
+#statement-entry{
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 10px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 3px;
+	border: 1px solid #03e6ff;
+}
+
+#statement-card-box{
+	min-width: 200px;
+	
+	border-radius: 3px;
+	border: 1px solid #03e6ff;
+	
+	margin: 5px;
+	padding: 3px;
+}
+
+#statement-box-title{
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 15px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	margin-bottom: 5px;
+}
+
+#gen-report-button{
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 10px;
+	border: 2px solid #03e6ff;
+	
+	margin-top: 25px;
+	margin-bottom: 10px;	
+}
+
+#exp-pdf-button{
+	color: #03e6ff;
+	background: #0038c7;
+	
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Trebuchet MS", sans-serif;
+	
+	border-radius: 10px;
+	border: 2px solid #03e6ff;
+	
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
